@@ -29,7 +29,7 @@ Before you start, make sure you have the following:
  // initialize with push service appSecret or apikey
  PushNotifications.initWithApiKey("YOUR_APPLICATION_ID", "YOUR_APIKEY",
                 PushNotifications.US_SOUTH_REGION);
-                
+
  PushNotifications.init("YOUR_APPLICATION_ID", "YOUR_SECRET", PushNotifications.US_SOUTH_REGION);
 
  ```
@@ -45,6 +45,7 @@ Before you start, make sure you have the following:
 * Video Tutorials Available here - [IBM Cloud Push Notifications](https://www.youtube.com/channel/UCRr2Wou-z91fD6QOYtZiHGA)
 
 =======================
+
 Copyright 2019 IBM Corp.
 
 Licensed under the Apache License, Version 2.0 (the "License");
